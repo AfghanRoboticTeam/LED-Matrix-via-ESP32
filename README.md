@@ -4,4 +4,6 @@ Copy the Code.ino and paste it in the Arduino IDE, Update the Wifi and SSID if y
 
 in the board menu select the ESP32 Dev Module for the code to work.
 
+Make sure to download all the required libraries in the Arduino IDE library manager!
+
 Tutorial (https://youtu.be/HL6uD6upC6c)
